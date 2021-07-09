@@ -1,2 +1,1 @@
-# microservices-hands-on
-Solution for Microservices hands-on
+# AWS-hands-on
