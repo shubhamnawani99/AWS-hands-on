@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+      
+    credentials:
+      access-key: #access-key goes here
+      secret-key: #Secret-key goes here
+      
+    end-point:
+      uri: #End point for queue goes here
